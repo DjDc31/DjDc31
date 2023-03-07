@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦾 Currently learning Data Science at Le Wagon - Bordeaux<br>🥽 I love exploring new things<br>
+🦾 Alumni in Data Science at Le Wagon - Bordeaux<br>🥽 I love exploring new things<br>
 
 
 ## 🌐 Socials:
