@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Cyrille Varin:
 🦾 Alumni in Data Science at Le Wagon - Bordeaux<br>🥽 I love exploring new things<br>
 
 
