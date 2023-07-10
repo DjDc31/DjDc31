@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧬 Alumni in Data Science at Le Wagon - Bordeaux<br>🥽 I love exploring new things<br>🧑‍💻 Learning Web Dev<br><br>
+🧬 Data Science, Web Dev., Management, Marketing & Finance<br>🥽 I love exploring new things<br>🧑‍💻 Learning Web Dev<br><br>
 
 
 ## 🌐 Socials:
