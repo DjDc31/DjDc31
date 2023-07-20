@@ -2,11 +2,13 @@ Hi there, I'm [**Cyrille Varin**](http://www.cyrillevarin.com) specialize in �
 
 Some of my many open source projects are:
 
+* 🤖 The [Auto-Repo](https://github.com/DjDc31/auto-repo) to automate push repository on github.
 * 🐍 The [WUM](https://github.com/DjDc31/WUM) a web usage monitor in python.
 * 😵‍💫 These [Fake Screen Update](https://github.com/DjDc31/fake-update-macos) effects, that'll scare the hell out of your colleagues!
 * 🐶 [PAK](https://github.com/LaureneFreyer/pak), a website where you can rent a pet? Or rather an incredible method of communication?
 * 👫 [Not-Solo](https://github.com/LaureneFreyer/not_solo), a web app for finding new friends
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="cyrille" data-color="#FFDD00" data-emoji="🍺"  data-font="Cookie" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrille-varin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cyrillevarin) 
