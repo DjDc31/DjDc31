@@ -7,7 +7,7 @@ Some of my many open source projects are:
 * 😵‍💫 These [Fake Screen Update](https://github.com/DjDc31/fake-update-macos) effects, that'll scare the hell out of your colleagues!
 * 🐶 [PAK](https://github.com/LaureneFreyer/pak), a website where you can rent a pet? Or rather an incredible method of communication?
 * 👫 [Not-Solo](https://github.com/LaureneFreyer/not_solo), a web app for finding new friends
-* 📰 [CertiNews](https://secret-cliffs-97019-43ce9b227832.herokuapp.com), a 8hours challenges to build a rails app 
+* 📰 [CertiNews](https://secret-cliffs-97019-43ce9b227832.herokuapp.com), a 8hours challenge to build a rails app for the Wagon Certification 
 
 
 <a href="https://www.buymeacoffee.com/cyrille" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
