@@ -5,7 +5,7 @@ Some of my many open source projects are:
 * 🤖 The [Auto-Repo](https://github.com/DjDc31/auto-repo) to automate push repository on github.
 * 🐍 The [WUM](https://github.com/DjDc31/WUM) a web usage monitor in python.
 * 😵‍💫 These [Fake Screen Update](https://github.com/DjDc31/fake-update-macos) effects, that'll scare the hell out of your colleagues!
-* 🐶 [PAK](https://github.com/LaureneFreyer/pak), a website where you can rent a pet? Or rather an incredible method of communication?
+* 🐶 [PAK](http://www.louerunanimal.com), a website where you can rent a pet? Or rather an incredible method of communication?
 * 👫 [Not-Solo](https://github.com/LaureneFreyer/not_solo), a web app for finding new friends
 * 📰 [CertiNews](https://secret-cliffs-97019-43ce9b227832.herokuapp.com), an 8-hour challenge to build a rails application for Wagon certification
 
