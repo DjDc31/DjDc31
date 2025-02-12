@@ -1,4 +1,4 @@
-Hi there, I'm [**Cyrille Varin**](http://www.cyrillevarin.com) specialize in 🧬 Data Science, Web Dev., Management, Marketing & Finance<br>🥽 I love exploring new things<br>🧑‍💻 Learning Web Dev<br><br>
+Hi there, I'm [**Cyrille Varin**](http://www.cyrillevarin.com) specialize in 🧬 Data Science, Web Dev., Management, Marketing & Finance<br>🥽 I love exploring new things<br>🧑‍💻 Learning Flutter... <br><br>
 
 Some of my many open source projects are:
 
