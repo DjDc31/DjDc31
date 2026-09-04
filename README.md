@@ -1,26 +1,60 @@
-Hi there, I'm [**Cyrille Varin**](http://www.cyrillevarin.com) specialize in 🧬 Data Science, Web Dev., Management, Marketing & Finance<br>🥽 I love exploring new things<br>🧑‍💻 Learning Flutter... <br><br>
+Hi, I'm **[Cyrille Varin](https://cyrillevarin.com)**.
 
-Some of my many open source projects are:
+Data analyst at **TotalEnergies OneTech** in Pau, France. I build consolidated reporting, Power BI dashboards and automation for a finance and management control division. On the side I design and ship **Flutter apps** to the App Store and Google Play.
 
-* 🤖 The [Auto-Repo](https://github.com/DjDc31/auto-repo) to automate push repository on github.
-* 🐍 The [WUM](https://github.com/DjDc31/WUM) a web usage monitor in python.
-* 😵‍💫 These [Fake Screen Update](https://github.com/DjDc31/fake-update-macos) effects, that'll scare the hell out of your colleagues!
-* 🐶 [PAK](http://www.louerunanimal.com), a website where you can rent a pet? Or rather an incredible method of communication?
-* 👫 [Not-Solo](https://github.com/LaureneFreyer/not_solo), a web app for finding new friends
-* 📰 [CertiNews](https://secret-cliffs-97019-43ce9b227832.herokuapp.com), an 8-hour challenge to build a rails application for Wagon certification
+🌐 [cyrillevarin.com](https://cyrillevarin.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/cyrille-varin/) &nbsp;·&nbsp; [Medium](https://medium.com/@cyrillevarin)
+
+---
+
+## 📱 Apps I've shipped
+
+- **[PL-300 Pro](https://pl300.cyrillevarin.com)** — preparation for the Microsoft PL-300 Power BI Data Analyst certification: explained questions, timed mock exams, progress tracking. *iOS, Android.*
+- **[Pikki](https://www.pikki.fr)** — wish lists and gift lists shared through a single link, no account needed, with a Secret Santa draw. *iOS, Android, web, browser extension.*
+- **[PumpMe](https://pump-me.cyrillevarin.com)** — real-time fuel prices across six European countries, with map, routes and alerts. Free, no ads. *iOS, Android.*
+- **[CRR Maritime](https://crr.cyrillevarin.com)** — preparation for the French Restricted Radio Operator Certificate: revision by topic, mock exams, statistics. *iOS, Android.*
+- **[Ritimo](https://ritimo.cyrillevarin.com)** — a planner and guided routines: customisable rituals, reminders, long-term habit tracking. *Site live, app on its way.*
+
+## 🛠️ What I work with
+
+**Data & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-1D6F42?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge)
+![WEBI](https://img.shields.io/badge/WEBI-1B5E8C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge)
+
+**Apps & web**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge)
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+
+**Automation**
+
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge)
 
 
-<a href="https://www.buymeacoffee.com/cyrille" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+## 🎓 Certification
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrille-varin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cyrillevarin) 
+**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 📂 About these repositories
 
-# 📊 GitHub Languages:
+Most of what I build is closed source: the apps above, and client work I deliver through my agency. What is public here are small tools I keep around and early projects from my Le Wagon bootcamp.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DjDc31&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,makefile)
+- **[WUM](https://github.com/DjDc31/WUM)** — a web usage monitor written in Python.
+- **[auto-repo](https://github.com/DjDc31/auto-repo)** — a small Ruby utility to automate daily commits and pushes.
+- **[fake-update-macos](https://github.com/DjDc31/fake-update-macos)** — a fake macOS update screen, for pranking colleagues.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+The best place to see my current work is **[cyrillevarin.com](https://cyrillevarin.com)**.
